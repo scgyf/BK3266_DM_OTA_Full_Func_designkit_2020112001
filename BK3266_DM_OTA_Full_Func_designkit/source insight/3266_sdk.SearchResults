@@ -1,0 +1,2 @@
+---- LE disconnected Matches (1 in 1 files) ----
+Le_cts_app.c (controller\core\le):    os_printf("LE disconnected: 0x%x\r\n", reason);
